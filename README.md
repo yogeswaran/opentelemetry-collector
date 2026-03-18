@@ -232,5 +232,3 @@ For more information about the emeritus role, see the [community repository](htt
   <img alt="Repo contributors" src="https://contrib.rocks/image?repo=open-telemetry/opentelemetry-collector" />
 </a>
 
-
-
